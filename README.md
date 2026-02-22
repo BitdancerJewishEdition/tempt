@@ -3,5 +3,5 @@ This dumps Sober offsets which can't be dumped manually, more offsets and method
 
 ## How to use?
 `g++ main.cpp -o compiledbytreek.elf2025`<br>
-`./compiledbytreek.elf2025`
+`./compiledbytreek.elf2025`<br>
 By the way, don't forget to update VisualEngine pointer offset in Offsets.h
